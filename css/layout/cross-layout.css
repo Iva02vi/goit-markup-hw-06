@@ -1,0 +1,23 @@
+.section-title,
+.mobile-menu-list-item {
+  color: var(--navy-blue);
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  margin-bottom: 72px;
+}
+
+.active-page {
+  color: var(--ocean);
+}
+
+.card-title,
+.mobile-menu-address {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  margin-bottom: 8px;
+}
