@@ -10,3 +10,9 @@
 /* lAYOUT */
 @import "./layout/cross-layout.css";
 @import "./layout/header.css";
+@import "./layout/hero.css";
+@import "./layout/qualities.css";
+@import "./layout/team.css";
+@import "./layout/portfolio.css";
+@import "./layout/footer.css";
+@import "./layout/modal-window.css";
